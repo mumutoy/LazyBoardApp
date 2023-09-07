@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         const val SCAN_REQUEST = 1
     }
 
-    private var targetUrl: String = "https://log.ftqq.com/"
+    private var targetUrl: String = "https://read.moonmoon.cn/"
 
     private lateinit var llReload: View
     private lateinit var etTargetUrl: EditText
